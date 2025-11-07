@@ -1,0 +1,96 @@
+.skills_containe{
+    grid-template-columns: repeat(3, 300px);
+    column-gap: 3rem;
+    justify-content: center;
+}
+
+.skills_content{
+    background-color: var(--container-color);
+    border: 1px solid rgba(0, 0, 0, 0.1);
+    padding: 1.5rem 2rem;
+    border-radius: 1.25rem;
+    transition: .3s ease-in;
+}
+.skills_content:hover{
+    transform: scale(1.1);
+    transition: .3s ease-in;
+}
+.docImage{
+    border-radius: 1.25rem;
+}
+.docDiv{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.demolink{
+    font-size: var(--h3-font-size);
+    font-weight: var(--font-medium);
+    color: var(--title-color);
+}
+.skills_title{
+    font-size: var(--h3-font-size);
+    font-weight: var(--font-medium);
+    text-align: center;
+    margin-bottom: var(--mb-1-5);
+}
+
+.skills_box{
+    display: flex;
+    justify-content: center;
+    column-gap: 2.5rem;
+}
+
+.skills_group{
+    display: grid;
+    align-items: flex-start;
+    row-gap: 1rem;
+}
+
+.skills_data{
+    display: flex;
+    column-gap: 0.5rem;
+}
+
+.skills .bc-badge-check {
+    font-size: 1rem;
+    color: var(--title-color);
+}
+
+.skills_name{
+    font-size: var(--normal-font-size);
+    font-weight: var(--font-medium);
+    line-height: 18px;
+}
+
+@media screen and (max-width: 992px){
+    .skills_container{
+        grid-template-columns: max-content;
+        row-gap: 2rem;
+    }
+    .docDiv{
+        height: 110px;
+        width: 240px;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+    #skills_container{
+        display: flex;
+        flex-wrap: wrap;
+        padding: 5px;
+    }
+  }
+  
+  /* For small devices */
+  @media screen and (max-width: 350px){
+    .skills_container{
+        grid-template-columns: 1fr;
+    }
+    .skills_content{
+        padding: 1.5rem;
+    }
+    .skills_name{
+        font-size: var(--normal-font-size);
+    }
+  }
