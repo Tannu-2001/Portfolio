@@ -7,8 +7,8 @@ const Social = () => {
             <i className='bi bi-instagram'></i>
         </a>
 
-        <a href="https://www.facebook.com/people/Tannu-Singh" className="home_social-icon" target='_blank'>
-            <i className='bi bi-facebook'></i>
+        <a href="https://t.me/tannu_kumari" className="home_social-icon" target='_blank'>
+            <i className='bi bi-telegram'></i>
         </a>
         <a href="https://github.com/Tannu-2001" className="home_social-icon" target='_blank'>
             <i className='bi bi-github'></i>
