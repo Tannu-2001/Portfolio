@@ -2,6 +2,7 @@ import React from 'react';
 import "./projects.css";
 import Reflow from './reflow';
 import TinyLink from './tinylink';
+import VideoLibrary from './videolibrary';
 
 
 const Projects = () => {
@@ -11,8 +12,9 @@ const Projects = () => {
         <span className='section_subtitle'></span>
 
         <div className='skills_containe container grid' id='skills_container'>
-            <Reflow />
             <TinyLink />
+            <VideoLibrary />
+             <Reflow />
         </div>
     </section>
   )
