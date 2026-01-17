@@ -30,7 +30,7 @@ While building this portfolio, I strengthened my:
 
 ##  Screenshots
 ![Home Page](./screenshot/home.png)
-![Projects Page](./screenshot/project.png)
+![Projects Page](./screenshot/projects.png)
 ![Contact Page](./screenshot/contact.png)
 ![Home Page Mobile Responsive](./screenshot/mobileres.png)
 
