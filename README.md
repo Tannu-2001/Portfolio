@@ -33,8 +33,6 @@ While building this portfolio, I strengthened my:
 
 
 ## 📸 Gallery
-![Home Page](./screenshots/home.png)
-![Projects Section](./screenshots/projects.png)
 <img width="1920" height="1080" alt="home png" src="https://github.com/user-attachments/assets/32b63ac4-a87c-4e90-bff5-cccb1ee97af4" />
 
 
