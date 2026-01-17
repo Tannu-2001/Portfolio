@@ -30,6 +30,9 @@ While building this portfolio, I strengthened my:
 
 ##  Screenshots
 ![Home Page](./screenshot/home.png)
+![Projects Page](./screenshot/project.png)
+![Contact Page](./screenshot/contact.png)
+![Home Page Mobile Responsive](./screenshot/mobileres.png)
 
 ## Run Locally
 - Clone the repository-
