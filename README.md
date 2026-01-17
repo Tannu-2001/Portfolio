@@ -1,16 +1,52 @@
-# React + Vite
+## Tannu Kumari – Full Stack Web Developer Portfolio
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Welcome to my personal portfolio!  
+This website showcases my skills, projects, and experience as a *Full Stack Web Developer*.
 
-Currently, two official plugins are available:
+##  Live Website
+🔗 https://tannu-2001.github.io/Portfolio/
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+##  Tech Stack
+This portfolio site is built using:
+- HTML
+- CSS
+- JavaScript
+- React.js
 
-## React Compiler
+##  What You’ll Find Here
+- About Me section  
+- Skills & Technologies  
+- Projects with live demos and GitHub links  
+- Contact information  
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+This portfolio reflects my passion for clean design, responsive layouts, and real-world web development skills.
 
-## Expanding the ESLint configuration
+##  What I Learned
+While building this portfolio, I strengthened my:
+- Component-based UI design with React.js
+- Responsive design principles for all screens
+- Personal branding through web design
+- Deployment using GitHub Pages
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+##  Screenshots
+(Optional – Add images if you have screenshots in the repository)  
+```md
+## 📸 Gallery
+![Home Page](./screenshots/home.png)
+![Projects Section](./screenshots/projects.png)
+
+## Run Locally
+- Clone the repository-
+git clone https://github.com/Tannu-2001/Portfolio.git
+- Run the development server- npm start
+- View in browser: http://localhost:3000
+
+## Future Improvements
+Add dark / light mode
+Add animation effects
+Add downloadable resume section
+
+##  Connect With Me
+- LinkedIn: 
+- GitHub: https://github.com/Tannu-2001
+- Email: your.email@example.com
