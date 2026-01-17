@@ -29,7 +29,7 @@ While building this portfolio, I strengthened my:
 - Deployment using GitHub Pages
 
 ##  Screenshots
-![Home Page](./screenshot/home.jpg)
+![Home Page](./screenshot/home.png)
 
 ## Run Locally
 - Clone the repository-
