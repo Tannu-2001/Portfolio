@@ -29,8 +29,9 @@ While building this portfolio, I strengthened my:
 - Deployment using GitHub Pages
 
 ##  Screenshots
-(Optional – Add images if you have screenshots in the repository)  
-```md
+
+
+
 ## 📸 Gallery
 ![Home Page](./screenshots/home.png)
 ![Projects Section](./screenshots/projects.png)
