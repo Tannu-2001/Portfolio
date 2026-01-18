@@ -29,9 +29,13 @@ While building this portfolio, I strengthened my:
 - Deployment using GitHub Pages
 
 ##  Screenshots
+### Home Page
 ![Home Page](./screenshot/home.png)
+### Project Page
 ![Projects Page](./screenshot/projects.png)
+### Contact Page
 ![Contact Page](./screenshot/contact.png)
+### Home Page Mobile Responsive
 ![Home Page Mobile Responsive](./screenshot/mobileres.png)
 
 ## Run Locally
